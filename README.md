@@ -34,7 +34,8 @@ All records are generated de novo from aggregate priors; no patient-level EMR is
 Educators and students learning data cleaning, causal inference, bias analysis, and survival modelling; researchers testing causal discovery.
 
 ---
-See [here](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/2026_02_25_PrimeCvd_QuickStart.ipynb) to start using the PRIME-CVD data assets.
+See [here](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/2026_02_25_PrimeCvd_QuickStart.ipynb) to start using the PRIME-CVD data assets in Python.</br>
+See [here](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/2026_02_25_PrimeCvd_QuickStart(R_Version).ipynb) to start using the PRIME-CVD data assets in R.
 
 ---
 
