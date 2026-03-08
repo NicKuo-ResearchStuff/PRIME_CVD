@@ -82,6 +82,34 @@ See [here](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/2026_02_2
 
 ---
 
+<!-- Side-by-side layout: text and illustration -->
+
+<table>
+<tr>
+<td width="60%">
+
+**Teaching with PRIME-CVD**
+
+* For educators:</br>
+  **[Series 02](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A002_EducationFocus)** focuses on assessment design, showing how PRIME-CVD supports structured assignments and exams — from socioeconomic stratification tasks to Cox baseline interpretation and EMR reconstruction exercises. It demonstrates how the dataset enables fair, reproducible, and judgement-based evaluation rather than rote modelling.
+
+* For students:</br>
+  Below, we introduce core concepts in medical informatics through focused thematic series:
+  * **Discrimination ([Series 03](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A003_DiscriminationBlogs)):**</br> how models rank individuals in risk space.
+  * **Calibration ([Series 04](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A004_CalibrationBlogs)):**</br> how predicted risks relate to observed outcomes.
+  * **Transportability ([Series 05](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A005_InternalExternalValidation)):**</br> how models behave across different populations.
+  * **Deployability ([Series 06](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A006_ToLassoOrNotToLasso)):**</br> the trade-off between modelling richness and real-world feasibility.
+  * **Risk Geometry ([Series 07](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A007_TsneAndVisualisation)):**</br> how patients cluster and form gradients in high-dimensional risk space.
+
+</td>
+<td width="40%">
+  <img src="https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/Supporting_Images/ZFig_FrontPage_TeachSeries.png" alt="Teaching with PRIME-CVD" width="400"/>
+</td>
+</tr>
+</table>
+
+---
+
 ---
 <p align="left">
   <img src="https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/Supporting_Images/ZFig_FrontPage_WIP.png" alt="PRIME-CVD Logo" width="600"/>
