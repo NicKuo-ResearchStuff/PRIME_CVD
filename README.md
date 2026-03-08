@@ -134,7 +134,7 @@ For questions or collaboration: Nic Kuo — [n.kuo@unsw.edu.au](mailto:n.kuo@uns
 1. PRIME-CVD manuscript not yet archived...
 2. Australian Bureau of Statistics (ABS) sources therein [1].
 3. Australian Institute of Health and Welfare (AIHW) sources therein [1].
-4. Kuo (2026). [PRIME-CVD Data Asset 1: DAG-Simulated Cardiovascular Risk Cohort for Medical Informatics Education](https://figshare.com/articles/dataset/PRIME-CVD_Data_Asset_1_DAG-Simulated_Cardiovascular_Risk_Cohort_for_Medical_Informatics_Education/31395765?file=62102364). figshare. Dataset. https://doi.org/10.6084/m9.figshare.31395765.v1
-5. Kuo (2026). [PRIME-CVD Data Asset 2: Relational EMR-Style Cardiovascular Dataset for Medical Informatics Education](https://figshare.com/articles/dataset/PRIME-CVD_Data_Asset_2_Relational_EMR-Style_Cardiovascular_Dataset_for_Medical_Informatics_Education/31403028?file=62130498). figshare. Dataset. https://doi.org/10.6084/m9.figshare.31403028.v1
+4. Kuo (2026). PRIME-CVD Data Asset 1: DAG-Simulated Cardiovascular Risk Cohort for Medical Informatics Education. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31395765.v1
+5. Kuo (2026). PRIME-CVD Data Asset 2: Relational EMR-Style Cardiovascular Dataset for Medical Informatics Education. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31403028.v1
 
 (Last edit: 2026-03-09)
