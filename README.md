@@ -60,6 +60,29 @@ See [here](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/2026_02_2
 </table>
 
 ---
+
+<!-- Side-by-side layout: text and illustration -->
+
+<table>
+<tr>
+<td width="60%">
+
+**[Series 01](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A001_DataAssetDemonstration) — The Dataset Itself**
+
+* What it shows:</br>how the clean cohort is structured and how the EMR version is derived.
+* Where it comes from:</br>a hand-specified causal DAG parameterised with ABS and AIHW evidence.
+* Why it exists:</br>to demonstrate data provenance, causal assumptions, and realistic population structure.
+
+</td>
+<td width="40%">
+  <img src="https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/Supporting_Images/ZFig_FrontPage_DataItself.png" alt="Series 01 Overview" width="400"/>
+</td>
+</tr>
+</table>
+
+---
+
+---
 <p align="left">
   <img src="https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/Supporting_Images/ZFig_FrontPage_WIP.png" alt="PRIME-CVD Logo" width="600"/>
 </p>
@@ -84,4 +107,4 @@ For questions or collaboration: Nic Kuo — [n.kuo@unsw.edu.au](mailto:n.kuo@uns
 2. Australian Bureau of Statistics (ABS) sources therein [1].
 3. Australian Institute of Health and Welfare (AIHW) sources therein [1].
 
-(Last edit: 2026-03-03)
+(Last edit: 2026-03-09)
