@@ -1,6 +1,6 @@
 ## Series 06 — Deployability
 
-<img src="https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/Supporting_Images/ZFig_PRIME_CVD_Series06_Logo.png" width="600"/>
+<img src="https://github.com/NicKuo-ResearchStuff/PRIME_CVD/blob/main/Supporting_Images/ZFig_PRlME_CVD_Series06_Logo.png" width="600"/>
 
 * **Lasso Blog 01: When Deployment Reality Meets Variable Count** (see [here](https://github.com/NicKuo-ResearchStuff/PRIME_CVD/tree/main/Blogs/A006_ToLassoOrNotToLasso/BlogSparse01))</br>
   → A comparison of FULL vs LASSO-regularised Cox models highlighting the trade-off between maximal predictive richness and practical deployability through controlled sparsity.
