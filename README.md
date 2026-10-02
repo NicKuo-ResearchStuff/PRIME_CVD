@@ -122,10 +122,10 @@ For questions or collaboration: Nic Kuo — [n.kuo@unsw.edu.au](mailto:n.kuo@uns
 
 # References & Further Reading
 
-1. Kuo, Nicholas I-Hsien, et al. "PRIME-CVD: A Parametrically Rendered Informatics Medical Environment for Education in Cardiovascular Risk Modelling." medRxiv (2026): 2026-03.
+1. Kuo, N. I.-H. et al. PRIME-CVD: Paired Synthetic Cohort and Structured EMR-Style Data Assets for Education in Cardiovascular Risk Modelling. *Scientific Data* (2026). [https://doi.org/10.1038/s41597-026-08352-3](https://doi.org/10.1038/s41597-026-08352-3).
 2. Australian Bureau of Statistics (ABS) sources therein [1].
 3. Australian Institute of Health and Welfare (AIHW) sources therein [1].
 4. Kuo (2026). PRIME-CVD Data Asset 1: DAG-Simulated Cardiovascular Risk Cohort for Medical Informatics Education. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31395765.v2
 5. Kuo (2026). PRIME-CVD Data Asset 2: Relational EMR-Style Cardiovascular Dataset for Medical Informatics Education. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31403028.v1
 
-(Last edit: 2026-08-14)
+(Last edit: 2026-10-02)
